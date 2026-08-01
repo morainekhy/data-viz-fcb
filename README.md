@@ -1,1 +1,1 @@
-# data-viz-fcb
+Data Visualization Workshop
